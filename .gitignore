@@ -4,4 +4,6 @@
 *.asm
 *.sfc
 *.smc
+*.nes
+*.csv
 *.lnk
