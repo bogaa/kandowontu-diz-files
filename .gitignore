@@ -5,7 +5,7 @@
 *.sfc
 *.smc
 *.srm
-#.bst
+*.bst
 *.nes
 *.csv
 *.lnk
